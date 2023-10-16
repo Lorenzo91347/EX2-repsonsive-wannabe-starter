@@ -129,11 +129,19 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/*
+ Tablet, width : 768px
+*/
+
 @media screen and (max-width: 768px) {
     .container {
         max-width: 100vw;
     }
 }
+
+/*
+Mobile, width : 480px
+*/
 
 @media screen and (max-width: 480px) {
     .row {
